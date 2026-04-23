@@ -161,4 +161,4 @@ npm run test:e2e          # E2E tests
 7. ✅ **API-Based Neon Management** - No CLI dependency, works in any environment
 8. ✅ **Clean Teardown** - Automatic cleanup of test branches and temp files
 9. ✅ **Fast Test Execution** - No time wasted on database seeding
-10. ✅ **Branch TTL** - 4-hour auto-expiration prevents orphaned test branches
+10. ✅ **Branch TTL** - 4-hour auto-expiration prevents orphaned test branches
