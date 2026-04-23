@@ -144,4 +144,4 @@ npm run dev
 Then navigate to:
 
 - http://localhost:3000/wiki/edit/new
-- http://localhost:3000/wiki/edit/123 (or any ID)
+- http://localhost:3000/wiki/edit/123 (or any ID)
