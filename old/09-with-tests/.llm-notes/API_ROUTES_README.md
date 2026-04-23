@@ -268,4 +268,4 @@ The API routes are automatically available when running the Next.js development 
 npm run dev
 ```
 
-All routes will be accessible at `http://localhost:3000/api/*` and will log operations to the console for debugging.
+All routes will be accessible at `http://localhost:3000/api/*` and will log operations to the console for debugging.
