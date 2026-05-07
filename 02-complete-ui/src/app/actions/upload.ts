@@ -45,4 +45,4 @@ export async function uploadFile(formData: FormData): Promise<UploadedFile> {
     type: file.type,
     filename: file.name,
   };
-}
+}
