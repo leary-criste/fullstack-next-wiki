@@ -43,4 +43,4 @@ export async function deleteArticleForm(formData: FormData): Promise<void> {
   await deleteArticle(String(id));
   // After deleting, redirect the user back to the homepage.
   redirect("/");
-}
+}
